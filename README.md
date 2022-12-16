@@ -17,7 +17,7 @@ The Bank_Marketing.ipynb file was written using the Colab IDE. It contains the E
 - Expectation Maximization
 - Semi Supervised Support Vector Machine(S3VM)
 
-###The notebook also contains experiments conducted for:
+### The notebook also contains experiments conducted for:
 i) Noisy train data.
 ii) Logistic regression model for both Supervised and Semi Supervised Learning techniques.
 
