@@ -39,8 +39,6 @@ The main.py file is used to run the best models from Supervised Learning and Sem
 2)use the command `python3 main.py` to run the main.py file.
 
 
-
-
 The pickle files for all the models can be found under the saved_model_files folder which is subdivided into supervised and semi supervised categories.
 
 The code for S3VM has been taken from the following github repository: https://github.com/NekoYIQI/QNS3VM.
