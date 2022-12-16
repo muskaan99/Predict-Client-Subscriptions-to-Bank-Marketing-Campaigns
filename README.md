@@ -18,6 +18,7 @@ The SL.py file contains the following Supervised Learning Algorithms: Trivial mo
 - Label Propagation
 - Expectation Maximization
 - Semi Supervised Support Vector Machine(S3VM)
+
 The SSL.py file contains the Semi Supervised Learning Algorithms: Prop 1NN, Expectation Maximization and Label Propagation. The experiments have been performed for 10%,20%, 30% and 40% of labeled data. Since the model file for S3VM is approx 1.5GB it isn't available in the model files folder.
 
 ### The notebook also contains experiments conducted for:
@@ -36,7 +37,7 @@ The main.py file is used to run the best models from Supervised Learning and Sem
 1) Use the command:
 `pip install -r requirements.txt`
 
-2)use the command `python3 main.py` to run the main.py file.
+2) Use the command `python3 main.py` to run the main.py file.
 
 
 The pickle files for all the models can be found under the saved_model_files folder which is subdivided into supervised and semi supervised categories.
