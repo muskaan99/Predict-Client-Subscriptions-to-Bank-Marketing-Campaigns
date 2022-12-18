@@ -45,4 +45,4 @@ The pickle files for all the models can be found under the saved_model_files fol
 The code for S3VM has been taken from the following github repository: https://github.com/NekoYIQI/QNS3VM.
 
 ## Project Report
-The project report can be found [here](https://github.com/muskaan99/Event-Management-Web-Application/blob/main/Event%20Management%20Web%20Application.pdf) 
+The project report can be found [here](https://github.com/muskaan99/Predict-Client-Subscriptions-to-Bank-Marketing-Campaigns/blob/main/PROJECT%20REPORT.pdf) 
